@@ -27,3 +27,4 @@ Modify the application to report metrics after planning:
 Length of the resulting path,
 size of the search tree (number of nodes),
 height of the search tree
+ 
